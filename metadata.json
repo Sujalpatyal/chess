@@ -1,0 +1,6 @@
+{
+  "name": "AI Chess Assistant",
+  "description": "Play, analyze, and master chess with real-time Stockfish engine evaluation, tactical puzzles, game review, and online multiplayer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
